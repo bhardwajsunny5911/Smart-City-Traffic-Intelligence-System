@@ -33,8 +33,8 @@ Assessed weather impact on traffic flow.
 Monitored traffic violations for better enforcement strategies.
 
 This project helped me strengthen my skills in data analysis, dashboard development, storytelling with data, and KPI-driven decision-making.
+<img width="573" height="323" alt="Screenshot 2026-06-10 172100" src="https://github.com/user-attachments/assets/b685399a-7e19-4a2d-9702-c64b67895bee" />
 
-<img width="520" height="330" alt="Screenshot 2026-06-10 180054" src="https://github.com/user-attachments/assets/533e789f-64e0-4079-910a-f55df6985f2b" />
 
 📍 Traffic Insights & Decision Support Center
 
@@ -47,4 +47,4 @@ Interactive Filters & Slicers
 Executive-Level Traffic Insights
 🛠️ Tools & Skills Used
 
-<img width="573" height="323" alt="Screenshot 2026-06-10 172100" src="https://github.com/user-attachments/assets/b685399a-7e19-4a2d-9702-c64b67895bee" />
+<img width="520" height="330" alt="Screenshot 2026-06-10 180054" src="https://github.com/user-attachments/assets/533e789f-64e0-4079-910a-f55df6985f2b" />
